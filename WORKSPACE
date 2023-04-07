@@ -50,7 +50,7 @@ maven_install(
         "org.apache.commons:commons-math3:3.6.1",
 				"io.netty:netty-tcnative-boringssl-static:2.0.25.Final",
 				"org.bouncycastle:bcprov-jdk15on:1.69",
-        "org.bouncycastle:bcpkix-jdk15on:1.69",
+        "org.bouncycastle:bcpkix-jdk15on:1.70",
         "org.bouncycastle:bcprov-jdk15to18:1.69",
 				"com.thetransactioncompany:jsonrpc2-server:1.11",
 				"net.minidev:json-smart:2.4.7",
