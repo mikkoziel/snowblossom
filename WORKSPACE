@@ -43,7 +43,7 @@ git_repository(
 
 maven_install(
     artifacts = [
-				"com.google.protobuf:protobuf-java:3.5.1",
+				"com.google.protobuf:protobuf-java:3.22.2",
 				"org.rocksdb:rocksdbjni:7.2.2",
         "junit:junit:4.12",
 				"commons-codec:commons-codec:1.11",
