@@ -46,7 +46,7 @@ maven_install(
 				"com.google.protobuf:protobuf-java:3.5.1",
 				"org.rocksdb:rocksdbjni:7.2.2",
         "junit:junit:4.12",
-				"commons-codec:commons-codec:1.11",
+				"commons-codec:commons-codec:1.15",
         "org.apache.commons:commons-math3:3.6.1",
 				"io.netty:netty-tcnative-boringssl-static:2.0.25.Final",
 				"org.bouncycastle:bcprov-jdk15on:1.69",
