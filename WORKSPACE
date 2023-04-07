@@ -55,7 +55,7 @@ maven_install(
 				"com.thetransactioncompany:jsonrpc2-server:1.11",
 				"net.minidev:json-smart:2.4.7",
 				"com.lambdaworks:scrypt:1.4.0",
-				"com.google.zxing:javase:3.4.0",
+				"com.google.zxing:javase:3.5.1",
 				"org.slf4j:slf4j-nop:1.7.25",
 				"org.bitcoinj:bitcoinj-core:0.15.10",
         "org.bitlet:weupnp:0.1.4",
