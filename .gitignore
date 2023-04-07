@@ -1,4 +1,5 @@
 bazel-*
+!bazel-steward.yaml
 .metadata/
 .project/
 .project-data-dir/
@@ -6,3 +7,4 @@ example/deployment/snowblossom-*
 *.swp
 *.idea
 *.iml
+.ijwb/
