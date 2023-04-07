@@ -52,7 +52,7 @@ maven_install(
 				"org.bouncycastle:bcprov-jdk15on:1.69",
         "org.bouncycastle:bcpkix-jdk15on:1.69",
         "org.bouncycastle:bcprov-jdk15to18:1.69",
-				"com.thetransactioncompany:jsonrpc2-server:1.11",
+				"com.thetransactioncompany:jsonrpc2-server:1.11.1",
 				"net.minidev:json-smart:2.4.7",
 				"com.lambdaworks:scrypt:1.4.0",
 				"com.google.zxing:javase:3.4.0",
